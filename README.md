@@ -9,7 +9,7 @@
 ```
 
 
-![Homepage Image](complete_boxs.png)
+
 
 
 ```console
