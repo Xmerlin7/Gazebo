@@ -9,9 +9,6 @@
 ```
 
 
-![Homepage Image](/home/seif/_gitHub/Gazebo/catkin_ws/src/complete_boxs.png)
-
-
 ```console
     $  roslaunch spcbot_description rviz.launch 
 ```
@@ -24,5 +21,3 @@
 ```console
     $ roslaunch spcbot_gazebo spcbot_random.launch 
 ```
-
-![Homepage Image](random_world.png)
