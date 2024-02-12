@@ -18,11 +18,6 @@
 ![image](https://user-images.githubusercontent.com/16764177/70861954-13de7180-1f3e-11ea-8153-c9701eec7360.png)
 
 
-
-
-
 ```console
     $ roslaunch spcbot_gazebo spcbot_random.launch 
 ```
-
-![Homepage Image](random_world.png)
